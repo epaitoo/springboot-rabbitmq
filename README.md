@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Click on the 'Clone or download' button and select 'Download Zip. or use `git clone` option
 - Navigate to the `spring-rabbitMQ-producer` folder, install Dependacies and Run
 - Make sure you have RabbitMQ running
-- Test all the endpoints located in the [MessagePublish](https://github.com/epaitoo/springboot-rabbitmq/tree/main/spring-rabbitmq-producer/src/main/java/com/epaitoo/springmq/controller) file
+- Test all the endpoints located in the [MessagePublisher.java](https://github.com/epaitoo/springboot-rabbitmq/tree/main/spring-rabbitmq-producer/src/main/java/com/epaitoo/springmq/controller) file
 - Check the RabbitMQ dashboard for the queues in the `Queue` section
 - Navigate to the `spring-rabbitMQ-consumer` folder, install Dependacies, Run 
 - View all messages
